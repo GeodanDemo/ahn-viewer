@@ -1,0 +1,22 @@
+{
+  "name": "ahn-viewer",
+  "version": "1.0.0",
+  "description": "AHN-viewer with interactive scale change",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeodanDemo/ahn-viewer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeodanDemo/ahn-viewer/issues"
+  },
+  "homepage": "https://github.com/GeodanDemo/ahn-viewer#readme",
+  "dependencies": {
+    "leaflet": "^1.3.1"
+  }
+}
